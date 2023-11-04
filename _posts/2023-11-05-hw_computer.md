@@ -1,6 +1,9 @@
 ---
 title : 40만원 조립컴퓨터
 date : 2023-11-05 00:29:00 +09:00
+sitemap:
+  changefreq: daily
+  priority : 1.0
 categories : [Hardware, Computer]
 tags :
     [ 
