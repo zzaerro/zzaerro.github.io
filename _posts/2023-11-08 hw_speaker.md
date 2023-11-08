@@ -22,8 +22,6 @@ tags :
 그런 이유에서 SP2를 구매하게 되었다.
 
 # 본론
-<p align="center">
-  <img width="460" height="300" src=""D:\Github_Blog_project\zzaerro.github.io\assets\img\speaker_sp2\sp2_lge_crop.png"">
-</p>
+
 
 
