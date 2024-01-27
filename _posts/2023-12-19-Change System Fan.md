@@ -40,14 +40,14 @@ tags:
 이었다.
 주 업무가 공부, Youtube, Netflix, KakaoTalk인 나에게는 성능은 그렇게 중요한 요소가 아니었다. 실제로 사용 중에 케이스를 열면 따뜻한 바람이 아니라 시원한 바람이 나온다...
 
-<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215428" width="70%" height="70%" title="4" alt="4">
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215428.png" width="70%" height="70%" title="4" alt="4">
 
 해당 제품을 보면 매력적인 디자인임을 확인 할 수 있다. 그리고 케이스와 접촉되는 부분에 얇은 스펀지가 존재해서 유격으로 인해서 발생하는 소음도 잡아주도록 설계되었다.
 
 해당 제품의 경우 5V A-RGB 선을 지원한다. 본체에서 5V 포트를 찾아보는 것보다 다나와에서 메인보드를 검색해서 5V ARGB 지원 여부를 확인하였다.
 <img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215858.png" width="70%" height="70%" title="4" alt="4">
 하지만 다나와에서 쓰인 것과는 다르게 ARGB 5V 3핀 헤더를 지원하지 않았고
-![[GitPage/zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219220032.png]]
+
 한참을 5V 포트를 찾다가 지원하지 않는다는 리뷰를 확인할 수 있었다.
 
 해서 빠르게 검색 후
