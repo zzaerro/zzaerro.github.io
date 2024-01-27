@@ -40,20 +40,21 @@ tags:
 이었다.
 주 업무가 공부, Youtube, Netflix, KakaoTalk인 나에게는 성능은 그렇게 중요한 요소가 아니었다. 실제로 사용 중에 케이스를 열면 따뜻한 바람이 아니라 시원한 바람이 나온다...
 
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215428.png]]
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215428" width="70%" height="70%" title="4" alt="4">
 
 해당 제품을 보면 매력적인 디자인임을 확인 할 수 있다. 그리고 케이스와 접촉되는 부분에 얇은 스펀지가 존재해서 유격으로 인해서 발생하는 소음도 잡아주도록 설계되었다.
 
 해당 제품의 경우 5V A-RGB 선을 지원한다. 본체에서 5V 포트를 찾아보는 것보다 다나와에서 메인보드를 검색해서 5V ARGB 지원 여부를 확인하였다.
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215858.png]]
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219215858.png" width="70%" height="70%" title="4" alt="4">
 하지만 다나와에서 쓰인 것과는 다르게 ARGB 5V 3핀 헤더를 지원하지 않았고
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219220032.png]]
+![[GitPage/zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219220032.png]]
 한참을 5V 포트를 찾다가 지원하지 않는다는 리뷰를 확인할 수 있었다.
 
 해서 빠르게 검색 후
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219220121.png]]
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219220121.png" width="70%" height="70%" title="4" alt="4">
 darkFlash RC2 Hub를 구매하였다.
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221123.png]]
+
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221123.png" width="70%" height="70%" title="4" alt="4">
 Input : ARGB port * 6, PWM port * 6, SATA 전원선, reset 선 ( rgb 변경용 )
 output : mother board sync, PWM
 
@@ -68,7 +69,7 @@ output : mother board sync, PWM
 하지만 국내에서는 리모컨을 찾을 수가 없고... Ali에서 구매하면 배송은 2~3일 정도 더 걸리지만 허브 하나 가격에 허브와 리모컨을 구매 할 수 있으니 Ali에서 팬 구매하실 때 같이 사시면 좋습니다...
 
 그리고 팬 장착하고, 전원을 켰더니 팬이 엄청난 소음을 발생해서 찾아보니 BIOS 설정을 변경해주어야 된다고 한다.
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221218.png]]
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221218.png" width="70%" height="70%" title="4" alt="4">
 그래서 
 - CPU Fan Profile Standard -> Manual
 - CPU Fan Min. Duty Cycle (%) 20 -> 0
@@ -79,7 +80,6 @@ output : mother board sync, PWM
 
 # 결론
 
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221437.png]]
-
-![[zzaerro.github.io/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221446.png]]
-해당 제품을 전면 흡기 후면 윗면 배기로 구성하여 사용중이고 소음도 없고, 예뻐서 완전 만족하면서 사용중이다.
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221437.png" width="70%" height="70%" title="4" alt="4">
+<img src="/assets/img/2023-12-19-Change System Fan/Pasted image 20231219221446.png" width="70%" height="70%" title="4" alt="4">
+해당 제품을 전면 흡기 후면 윗면 배기로 구성하여 사용중이고 소음도 없고, 좋다!
